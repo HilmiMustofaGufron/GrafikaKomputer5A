@@ -1,6 +1,7 @@
-PENJELASAN FILE REPOSTORY
+HASIL RUNNING
 
-#Pertemuan 2
+# Pertemuan 2
+
 (Praktikum 1)
 <img width="1920" height="1080" alt="Praktikum1" src="https://github.com/user-attachments/assets/3bda67ae-baa9-4dac-a623-c7ca9c4ca306" />
 (Praktikum 2)
