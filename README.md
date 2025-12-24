@@ -14,6 +14,25 @@
 <img width="1920" height="1080" alt="Praktikum5" src="https://github.com/user-attachments/assets/72fc7d1f-7dc6-48be-9070-5b025c681602" />
 
 
+## Pertemuan 3
+
+(Praktikum Koordinat 1)
+<img width="1920" height="1080" alt="PraktikumKoordinat1" src="https://github.com/user-attachments/assets/92073516-bf72-455e-9d31-337281ede003" />
+(Praktikum Koordinat 2)
+<img width="1920" height="1080" alt="PraktikumKoordinat2" src="https://github.com/user-attachments/assets/d26b5e71-a3a7-4c1b-837b-49bd5a4d97ef" />
+(Praktikum Koordinat 3)
+<img width="1920" height="1080" alt="PraktikumKoordinat3" src="https://github.com/user-attachments/assets/00bdc6ed-fc83-4cb5-8c40-a505185ab9e2" />
+(Praktikum Gambar 1)
+<img width="1920" height="1080" alt="PraktikumGambar1" src="https://github.com/user-attachments/assets/e613d67f-b870-4962-bfe7-14eb34b6018a" />
+(Praktikum Gambar 2)
+<img width="1920" height="1080" alt="PraktikumGambar2" src="https://github.com/user-attachments/assets/f37e9e50-f0ad-4e80-8582-cab7aa0aec2a" />
+
+
+
+
+
+
+
 
 
 
