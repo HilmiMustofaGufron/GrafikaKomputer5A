@@ -102,12 +102,12 @@ Menampilkan gambar rumah lengkap dengan elemen-elemen:
    #### Hasil Running
 
    (Tampilan Awal)
-   <img width="1920" height="1080" alt="Normal" src="https://github.com/user-attachments/assets/08e63a37-3673-468b-b241-       550eacb20b8f" />
+   <img width="1920" height="1080" alt="Normal" src="https://github.com/user-attachments/assets/08e63a37-3673-468b-b241-550eacb20b8f" />
    (Translasi)
-   <img width="1920" height="1080" alt="Transisi" src="https://github.com/user-attachments/assets/602307ee-0bb3-4869-af67-     53604bf1fb09" />
+   <img width="1920" height="1080" alt="Transisi" src="https://github.com/user-attachments/assets/602307ee-0bb3-4869-af67-53604bf1fb09" />
    (Rotasi)
-   <img width="1920" height="1080" alt="Rotasi" src="https://github.com/user-attachments/assets/f788f653-dadf-4afc-aa4b-       776a02373101" />
+   <img width="1920" height="1080" alt="Rotasi" src="https://github.com/user-attachments/assets/f788f653-dadf-4afc-aa4b-776a02373101" />
    (Skala Plus)
-   <img width="1920" height="1080" alt="SkalaPlus" src="https://github.com/user-attachments/assets/068d4d7a-3055-4fb6-8fcc-    238816889840" />
+   <img width="1920" height="1080" alt="SkalaPlus" src="https://github.com/user-attachments/assets/068d4d7a-3055-4fb6-8fcc-238816889840" />
    (Skala Minus)
    <img width="1920" height="1080" alt="SkalaMinus" src="https://github.com/user-attachments/assets/5964dc7d-1edd-4551-9806-24e3bcb8933e" />
